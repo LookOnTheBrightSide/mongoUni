@@ -1,0 +1,22 @@
+{
+  "name": "1mongoUni",
+  "version": "1.0.0",
+  "description": "mongo",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LookOnTheBrightSide/mongoUni.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LookOnTheBrightSide/mongoUni/issues"
+  },
+  "homepage": "https://github.com/LookOnTheBrightSide/mongoUni",
+  "dependencies": {
+    "mongodb": "^2.0.24"
+  }
+}
